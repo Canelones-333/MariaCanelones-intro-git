@@ -1,2 +1,2 @@
-git y github nos permite trabajar en equipo de una mejor forma 
-un cambio.
+git y github nos permite trabajar en equipo de una mejor forma. 
+coco
